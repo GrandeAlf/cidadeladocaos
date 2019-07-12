@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>Template Bootstrap</title>
+  <title>A Cidadela do Caos</title>
   <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -17,6 +17,7 @@
 
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>-->
     <script type="text/javascript" src="../../js/scripts.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../css/estilo.css">
 
 
    
@@ -26,6 +27,22 @@
   <div id="barra">
   
   </div>
+  <div class="container">
+    <div  class="row">
+      
+      <p class="inicial">Nas profundezas da Cidadela do Caos, o terrível feiticeiro, Balthus Dire, está conspirando e planejando a derrocada do povo generoso do Vale dos Salgueiros. Seus planos de combate estão prontos, seu exército assustador equipado, e o ataque é indiscutivelmente iminente.</p>
+      
+      <p>Convocado por uma súplica desesperada de ajuda, <b class="font-weight-bold">VOCÊ</b> é a única esperança do Vale dos Salgueiros. Aluno brilhante do Grande Mago de Yore e um mestre da magia, só você pode empreender uma missão que atinja o próprio coração do mundo de pesadelo de Balthus Dire. Que criaturas monstruosas esperam por você lá?</p>
+      
+      <p>Steve Jackson criou uma aventura emocionante de espada e feitiçaria para você, com um elaborado sistema de combate e uma variedade fascinante de encantos para usar. Nós, da GA Games, trouxemos tudo isso em um sistema web e tudo o que você precisa é um cadastro no site.</p>
+
+      <p>Muitos perigos existem à sua frente, e seu sucesso não está de forma alguma garantido. Há adversários poderosos nas fileiras do inimigo e muitas vezes sua punica alternativa será matar ou ser morto!</p>
+
+      <button class="btn btn-warning">Cadastrar-se</button>
+
+    </div>
+  </div>
+
 
   
   

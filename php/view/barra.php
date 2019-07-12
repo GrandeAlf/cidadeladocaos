@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>Template Bootstrap</title>
+  <title>barra</title>
   <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,8 +13,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
     <script type="text/javascript" src="../../js/scripts.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../css/estilo.css">
 
 
 </head>
@@ -23,15 +24,12 @@
   
   <nav class="navbar fixed-top navbar-light" style="background-color: #FF4500;">
     <a class="navbar-brand" href="#">A Cidadela do Caos</a>
-
+    <a class="nav-item nav-link txt_preto" href="#" >Cadastrar-se</a>
   </nav>
 
 
 
-  <nav class="navbar fixed-bottom navbar-light" style="background-color: #FF4500;">
-    <a class="navbar-brand" href="#">A Cidadela do Caos</a>
-  </nav>
-
+  
   
 
 
