@@ -22,10 +22,11 @@
 <body>
 
   
-  <nav class="navbar fixed-top navbar-light" style="background-color: #FF4500;">
-    <a class="navbar-brand" href="#">A Cidadela do Caos</a>
-    <a class="nav-item nav-link txt_preto" href="#" >Cadastrar-se</a>
+  <nav class="navbar fixed-top navbar-light " style="background-color: #FF4500;">
+    <a class="navbar-brand" href="inicial.php">A Cidadela do Caos</a>
+    <a class="nav-item nav-link txt_preto" href="cadastro_usuario.php" >Cadastrar-se</a>
   </nav>
+  <div class="inicial"></div>
 
 
 

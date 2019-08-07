@@ -30,7 +30,7 @@
   <div class="container">
     <div  class="row">
       
-      <p class="inicial">Nas profundezas da Cidadela do Caos, o terrível feiticeiro, Balthus Dire, está conspirando e planejando a derrocada do povo generoso do Vale dos Salgueiros. Seus planos de combate estão prontos, seu exército assustador equipado, e o ataque é indiscutivelmente iminente.</p>
+      <p>Nas profundezas da Cidadela do Caos, o terrível feiticeiro, Balthus Dire, está conspirando e planejando a derrocada do povo generoso do Vale dos Salgueiros. Seus planos de combate estão prontos, seu exército assustador equipado, e o ataque é indiscutivelmente iminente.</p>
       
       <p>Convocado por uma súplica desesperada de ajuda, <b class="font-weight-bold">VOCÊ</b> é a única esperança do Vale dos Salgueiros. Aluno brilhante do Grande Mago de Yore e um mestre da magia, só você pode empreender uma missão que atinja o próprio coração do mundo de pesadelo de Balthus Dire. Que criaturas monstruosas esperam por você lá?</p>
       
@@ -38,7 +38,8 @@
 
       <p>Muitos perigos existem à sua frente, e seu sucesso não está de forma alguma garantido. Há adversários poderosos nas fileiras do inimigo e muitas vezes sua punica alternativa será matar ou ser morto!</p>
 
-      <button class="btn btn-warning">Cadastrar-se</button>
+      <!--<button class="btn btn-warning" >Cadastrar-se</button>-->
+      <a class="btn btn-warning" href="cadastro_usuario.php">Cadastrar-se</a>
 
     </div>
   </div>
