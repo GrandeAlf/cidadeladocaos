@@ -1,6 +1,6 @@
 <?php 
 	class Usuario{
-		private $id;
+		//private $id;
 		private $login;
 		private $email;
 		private $senha;
@@ -10,13 +10,13 @@
 		private $magia;
 		private $ouro;
 
-		public function getId(){
+		/*public function getId(){
 			return $this->id;
 		}
 
 		public function setId($id){
 			$this->id = $id;
-		}
+		}*/
 
 		public function getLogin(){
 			return $this->login;
