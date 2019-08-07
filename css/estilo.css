@@ -1,5 +1,5 @@
 .inicial{
-	padding-top: 80px;
+	padding-bottom: 80px;
 }
 
 .txt_preto{
@@ -8,4 +8,17 @@
 
 .btn-warning{
 	background-color: #FF4500 !important;
+}
+
+.margem{
+	/*margin-top: 80px;*/
+	margin-left: 80px;
+	
+}
+
+.cadastros{
+	position: relative !important;
+	padding: 20px !important;
+	height: 4px !important;
+	width: 80px !important;
 }
